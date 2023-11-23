@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "834144857877",
+    "project_id": "applogin-8850f",
+    "storage_bucket": "applogin-8850f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834144857877:android:9f03eb54641a9a73a9c31c",
+        "android_client_info": {
+          "package_name": "com.example.applogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8kC5mW2L6uUTaIPIeNVtaNgEV1fjdcfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
